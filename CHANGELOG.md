@@ -6,6 +6,24 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and 
 
 ---
 
+## [2.0.1](https://github.com/DEVtheOPS/opencode-plugin-otel/compare/v2.0.0...v2.0.1) (2026-10-06)
+
+
+### Bug Fixes
+
+* **tool:** record locally executed tools in OpenCode V2 ([#134](https://github.com/DEVtheOPS/opencode-plugin-otel/issues/134)) ([129feb9](https://github.com/DEVtheOPS/opencode-plugin-otel/commit/129feb9e884dd3c115e6ffa2b1ebcc124127e8f4))
+
+## [2.0.0](https://github.com/DEVtheOPS/opencode-plugin-otel/compare/v1.5.1...v2.0.0) (2026-09-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate to OpenCode V2 ([#132](https://github.com/DEVtheOPS/opencode-plugin-otel/issues/132))
+
+### Features
+
+* migrate to OpenCode V2 ([#132](https://github.com/DEVtheOPS/opencode-plugin-otel/issues/132)) ([dae25f0](https://github.com/DEVtheOPS/opencode-plugin-otel/commit/dae25f09e54dbbc04570567379342e0949073f37))
+
 ## [1.5.1](https://github.com/DEVtheOPS/opencode-plugin-otel/compare/v1.5.0...v1.5.1) (2026-08-09)
 
 
